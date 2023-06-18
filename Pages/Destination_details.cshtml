@@ -1,0 +1,153 @@
+﻿@page
+@model DB_Project.Pages.destination_detailsModel
+@{
+}
+
+<div class="destination_banner_wrap overlay">
+    <div class="destination_text text-center">
+        <h3>@Model.dt.Rows[0][1]</h3>
+        <p>@Model.dt.Rows[0][10]</p>
+    </div>
+</div>
+
+
+<div class="destination_details_info">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-9">
+                <div class="destination_info">
+                    <h3>Description</h3>
+                    <p>                      
+                        @Model.dt.Rows[0][9]
+                    </p>
+                    <div class="single_destination">
+                        <h4>Day-01</h4>
+                        @for (int i =0; i< Model.dtt1.Rows.Count;i++)
+                        {
+                            <div class="w-50">
+                                <label class="checkbox-wrap checkbox-primary" style="color: dodgerblue;">
+                                   @Model.dtt1.Rows[i][0]
+                                    <input type="checkbox" name="remember" checked>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <br />
+                            </div>
+                            <p>@Model.dtt1.Rows[i][1]</p>
+                        }
+                    </div>
+                    <div class="single_destination">
+                        <h4>Day-02</h4>
+                        @for (int i = 0; i < Model.dtt2.Rows.Count; i++)
+                        {
+                            <div class="w-50">
+                                <label class="checkbox-wrap checkbox-primary" style="color: dodgerblue;">
+                                    @Model.dtt2.Rows[i][0]
+                                    <input type="checkbox" name="remember" checked>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <br />
+                            </div>
+                            <p>@Model.dtt2.Rows[i][1]</p>
+                        }
+                    </div>
+                    <div class="single_destination">
+                        <h4>Day-03</h4>
+                        
+                        @for (int i = 0; i < Model.dtt3.Rows.Count; i++)
+                        {
+                            <div class="w-50">
+                                <label class="checkbox-wrap checkbox-primary" style="color: dodgerblue;">
+                                    @Model.dtt3.Rows[i][0] 
+                                    <input type="checkbox" name="remember" checked>
+                                    <span class="checkmark"></span>
+                                </label>
+                                <br />
+                            </div>
+                            <p>@Model.dtt3.Rows[i][1]</p>
+                        }
+                    </div>
+                </div>
+                <div class="bordered_1px"></div>
+                <div class="contact_join">
+                    <form method="post">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="submit_btn">
+                                    <button class="boxed-btn4" type="submit">BOOK</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="recent_trip_area">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb_70">
+                    <h3>Recent Trips</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/11.png" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>Feb 21, 2023</span>
+                        </div>
+                        <a href="#">
+                            <h3>
+                                Discover the hidden oasis of Siwa and immerse yourself in its natural beauty
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/22.png" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>Feb 20, 2023</span>
+                        </div>
+                        <a href="#">
+                            <h3>
+                                Experience the unique blend of Bedouin culture, history, and natural beauty that only Dahab can offer
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/33.png" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>Apr 21, 2023</span>
+                        </div>
+                        <a href="#">
+                            <h3>
+                                Discover the beauty of Fayoum's lakes, waterfalls, and wildlife
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

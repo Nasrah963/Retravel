@@ -1,0 +1,127 @@
+﻿@page
+@model DB_Project.Pages.Private_TripModel
+@{
+}
+
+
+<!-- bradcam_area  -->
+<div class="bradcam_area bradcam_bg_5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text text-center">
+                    <h3>Private Trip</h3>
+                    <p>Pixel perfect design with awesome contents</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ bradcam_area  -->
+<div class="where_togo_area">
+    <div class="container">
+        <div class="row align-items-center ">
+            <div class="col-lg-3">
+                <div class="form_area">
+                    <h3>Number of people</h3>
+                </div>
+            </div>
+            <div class="col-lg-9 ">
+                <div class="search_wrap">
+                    <form  class="search_form" action="#">
+                        <div class="input_field">
+                            <select>
+                                <option data-display="num">number of people</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                                <option value="6">6</option>
+                                <option value="7">7</option>
+                                <option value="8">8</option>
+                                <option value="9">9</option>
+                                <option value="10">10</option>
+                            </select>
+                        </div>                                               
+                    </form>
+                    <br />
+                    <form method="post" >
+                        <div class="button">
+                            <button class="boxed-btn4 " type="submit">Go</button>
+                        </div>
+                    </form>                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- where_togo_area_end  -->
+
+
+
+
+<div class="recent_trip_area">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb_70">
+                    <h3>Recent Trips</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/Retravel/@Model.dt.Rows[0][5]" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>@(((DateTime)Model.dt.Rows[0][6]).ToString("MMMM dd, yyyy"))</span>
+                        </div>
+                        <a asp-page="/Destination_details" asp-route-id="@Model.dt.Rows[0][0]">
+                            <h3>
+                                @Model.dt.Rows[0][10]
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/Retravel/@Model.dt.Rows[1][5]" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>@(((DateTime)Model.dt.Rows[1][6]).ToString("MMMM dd, yyyy"))</span>
+                        </div>
+                        <a asp-page="/Destination_details" asp-route-id="@Model.dt.Rows[1][0]">
+                            <h3>
+                                @Model.dt.Rows[1][10]
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/Retravel/@Model.dt.Rows[2][5]" alt="">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>@(((DateTime)Model.dt.Rows[2][6]).ToString("MMMM dd, yyyy"))</span>
+                        </div>
+                        <a asp-page="/Destination_details" asp-route-id="@Model.dt.Rows[2][0]">
+                            <h3>
+                                @Model.dt.Rows[2][10]
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
