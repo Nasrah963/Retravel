@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\DB_Project.csproj": {}
+    "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\DB_Project.csproj": {}
   },
   "projects": {
-    "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\DB_Project.csproj": {
+    "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\DB_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\DB_Project.csproj",
+        "projectUniqueName": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\DB_Project.csproj",
         "projectName": "DB_Project",
-        "projectPath": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\DB_Project.csproj",
+        "projectPath": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\DB_Project.csproj",
         "packagesPath": "C:\\Users\\nasra\\.nuget\\packages\\",
-        "outputPath": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\obj\\",
+        "outputPath": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             }
           },
           "imports": [

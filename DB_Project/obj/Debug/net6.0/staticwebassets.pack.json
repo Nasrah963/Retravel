@@ -1,1975 +1,1975 @@
 {
   "Files": [
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DB_Project.bundle.scp.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DB_Project.bundle.scp.css",
       "PackagePath": "staticwebassets\\DB_Project.b65hien2c7.bundle.scp.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\animate.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrapAdmin.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrapAdmin.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrapAdmin.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\_media.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\_media.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_border-radius.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_screen-reader.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_text-hide.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_text-hide.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_text-hide.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_visibility.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\flaticon.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\flaticon.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\gijgo.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\gijgo.css",
       "PackagePath": "staticwebassets\\css\\gijgo.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\jquery-ui.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\magnific-popup.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\site.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\siteAdmin.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\siteAdmin.css",
       "PackagePath": "staticwebassets\\css\\siteAdmin.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\slick.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\slicknav.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\slicknav.css",
       "PackagePath": "staticwebassets\\css\\slicknav.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\style.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\style.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\style.map",
       "PackagePath": "staticwebassets\\css\\style.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\styleAdmin.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\styleAdmin.css",
       "PackagePath": "staticwebassets\\css\\styleAdmin.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\theme-default.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\theme-default.css",
       "PackagePath": "staticwebassets\\css\\theme-default.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\theme-default.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\theme-default.map",
       "PackagePath": "staticwebassets\\css\\theme-default.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\css\\themify-icons.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\favicon.ico",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\faviconAdmin.ico",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\faviconAdmin.ico",
       "PackagePath": "staticwebassets\\faviconAdmin.ico"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\Flaticon.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\Flaticon.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\Flaticon.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\Flaticon.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\Flaticon.woff2",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\flaticon.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\flaticon.css",
       "PackagePath": "staticwebassets\\fonts\\flaticon.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\gijgo-material.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\gijgo-material.eot",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\gijgo-material.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\gijgo-material.svg",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\gijgo-material.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\gijgo-material.ttf",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\gijgo-material.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\gijgo-material.woff",
       "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\themify.eot",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\themify.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\themify.ttf",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\fonts\\themify.woff",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Admin.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Admin.jpg",
       "PackagePath": "staticwebassets\\img\\Admin.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Ain Sokhna.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Ain Sokhna.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Ain Sokhna.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Ain-Sokhna.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Ain-Sokhna.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Ain-Sokhna.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Alexandria.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Alexandria.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Alexandria.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Bahariya Oasis.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Bahariya Oasis.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Bahariya Oasis.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Cairo .png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Cairo .png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Cairo .png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Dahab.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Dahab.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Dahab.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Elfayoum.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Elfayoum.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Elfayoum.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Giza.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Giza.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Giza.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Hurghada.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Hurghada.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Hurghada.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Luxor_Aswan.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Luxor_Aswan.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Luxor_Aswan.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Marsa matrouh.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Marsa matrouh.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Marsa matrouh.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Marsah Matrouh.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Marsah Matrouh.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Marsah Matrouh.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Port said.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Port said.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Port said.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Ras sedr.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Ras sedr.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Ras sedr.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Safaga.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Safaga.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Safaga.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Sharm El Sheikh.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Sharm El Sheikh.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Sharm El Sheikh.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Siwa-Oasis.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Siwa-Oasis.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Siwa-Oasis.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\Taba.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\Taba.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\Taba.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\Retravel\\marsa alam.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\Retravel\\marsa alam.png",
       "PackagePath": "staticwebassets\\img\\Retravel\\marsa alam.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\about\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\about\\1.png",
       "PackagePath": "staticwebassets\\img\\about\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\about\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\about\\2.png",
       "PackagePath": "staticwebassets\\img\\about\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\about\\about1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\about\\about1.png",
       "PackagePath": "staticwebassets\\img\\about\\about1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\about\\about2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\about\\about2.png",
       "PackagePath": "staticwebassets\\img\\about\\about2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\background.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\background.jpg",
       "PackagePath": "staticwebassets\\img\\background.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\Alex.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\Alex.png",
       "PackagePath": "staticwebassets\\img\\banner\\Alex.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\Marsa-Alam.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\Marsa-Alam.png",
       "PackagePath": "staticwebassets\\img\\banner\\Marsa-Alam.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\Private_trip.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\Private_trip.png",
       "PackagePath": "staticwebassets\\img\\banner\\Private_trip.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\Swia.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\Swia.png",
       "PackagePath": "staticwebassets\\img\\banner\\Swia.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\bradcam.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\bradcam.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\bradcam2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\bradcam2.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\bradcam3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\bradcam3.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\bradcam4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\bradcam4.png",
       "PackagePath": "staticwebassets\\img\\banner\\bradcam4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\contact.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\contact.png",
       "PackagePath": "staticwebassets\\img\\banner\\contact.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\destination.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\destination.png",
       "PackagePath": "staticwebassets\\img\\banner\\destination.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\newsletter.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\newsletter.png",
       "PackagePath": "staticwebassets\\img\\banner\\newsletter.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\sphinx.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\sphinx.png",
       "PackagePath": "staticwebassets\\img\\banner\\sphinx.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\testmonial.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\testmonial.png",
       "PackagePath": "staticwebassets\\img\\banner\\testmonial.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\banner\\video.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\banner\\video.png",
       "PackagePath": "staticwebassets\\img\\banner\\video.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\bg.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\bg.jpg",
       "PackagePath": "staticwebassets\\img\\bg.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\author.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\author.png",
       "PackagePath": "staticwebassets\\img\\blog\\author.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\blog_1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\blog_2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\blog_3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\blog_4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\learn_about_bg.png",
       "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\single_blog_1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\single_blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\single_blog_2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\single_blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\single_blog_3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\single_blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\single_blog_4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\single_blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\single_blog_5.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\single_blog_5.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\comment\\comment_1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\comment\\comment_2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\comment\\comment_3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\1.png",
       "PackagePath": "staticwebassets\\img\\destination\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\11.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\11.png",
       "PackagePath": "staticwebassets\\img\\destination\\11.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\2.png",
       "PackagePath": "staticwebassets\\img\\destination\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\22.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\22.png",
       "PackagePath": "staticwebassets\\img\\destination\\22.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\3.png",
       "PackagePath": "staticwebassets\\img\\destination\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\33.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\33.png",
       "PackagePath": "staticwebassets\\img\\destination\\33.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\4.png",
       "PackagePath": "staticwebassets\\img\\destination\\4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\44.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\44.png",
       "PackagePath": "staticwebassets\\img\\destination\\44.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\5.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\5.png",
       "PackagePath": "staticwebassets\\img\\destination\\5.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\55.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\55.png",
       "PackagePath": "staticwebassets\\img\\destination\\55.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\6.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\6.png",
       "PackagePath": "staticwebassets\\img\\destination\\6.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\66.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\66.png",
       "PackagePath": "staticwebassets\\img\\destination\\66.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\Alex.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\Alex.png",
       "PackagePath": "staticwebassets\\img\\destination\\Alex.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\destination\\Cairo.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\destination\\Cairo.png",
       "PackagePath": "staticwebassets\\img\\destination\\Cairo.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\favicon.ico",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\favv_icon.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\favv_icon.png",
       "PackagePath": "staticwebassets\\img\\favv_icon.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\footerlogo.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\footerlogo.png",
       "PackagePath": "staticwebassets\\img\\footerlogo.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\1.png",
       "PackagePath": "staticwebassets\\img\\instagram\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\2.png",
       "PackagePath": "staticwebassets\\img\\instagram\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\3.png",
       "PackagePath": "staticwebassets\\img\\instagram\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\4.png",
       "PackagePath": "staticwebassets\\img\\instagram\\4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\5.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\5.png",
       "PackagePath": "staticwebassets\\img\\instagram\\5.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\instagram\\6.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\instagram\\6.png",
       "PackagePath": "staticwebassets\\img\\instagram\\6.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\logoo.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\logoo.png",
       "PackagePath": "staticwebassets\\img\\logoo.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\1.png",
       "PackagePath": "staticwebassets\\img\\place\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\2.png",
       "PackagePath": "staticwebassets\\img\\place\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\3.png",
       "PackagePath": "staticwebassets\\img\\place\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\4.png",
       "PackagePath": "staticwebassets\\img\\place\\4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\5.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\5.png",
       "PackagePath": "staticwebassets\\img\\place\\5.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\place\\6.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\place\\6.png",
       "PackagePath": "staticwebassets\\img\\place\\6.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\1.png",
       "PackagePath": "staticwebassets\\img\\property\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\2.png",
       "PackagePath": "staticwebassets\\img\\property\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\3.png",
       "PackagePath": "staticwebassets\\img\\property\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\4.png",
       "PackagePath": "staticwebassets\\img\\property\\4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\5.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\5.png",
       "PackagePath": "staticwebassets\\img\\property\\5.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\property\\6.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\property\\6.png",
       "PackagePath": "staticwebassets\\img\\property\\6.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\service\\about.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\service\\about.png",
       "PackagePath": "staticwebassets\\img\\service\\about.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\signin-image.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\signin-image.png",
       "PackagePath": "staticwebassets\\img\\signin-image.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\signup-image.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\signup-image.png",
       "PackagePath": "staticwebassets\\img\\signup-image.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\sliders\\123.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\sliders\\123.png",
       "PackagePath": "staticwebassets\\img\\sliders\\123.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\sliders\\231.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\sliders\\231.png",
       "PackagePath": "staticwebassets\\img\\sliders\\231.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\sliders\\321.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\sliders\\321.png",
       "PackagePath": "staticwebassets\\img\\sliders\\321.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\svg_icon\\1.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\svg_icon\\1.svg",
       "PackagePath": "staticwebassets\\img\\svg_icon\\1.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\svg_icon\\2.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\svg_icon\\2.svg",
       "PackagePath": "staticwebassets\\img\\svg_icon\\2.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\svg_icon\\3.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\svg_icon\\3.svg",
       "PackagePath": "staticwebassets\\img\\svg_icon\\3.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\svg_icon\\quote.svg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\svg_icon\\quote.svg",
       "PackagePath": "staticwebassets\\img\\svg_icon\\quote.svg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\team\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\team\\1.png",
       "PackagePath": "staticwebassets\\img\\team\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\team\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\team\\2.png",
       "PackagePath": "staticwebassets\\img\\team\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\team\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\team\\3.png",
       "PackagePath": "staticwebassets\\img\\team\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\testimonial-2.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\testmonial\\author.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\testmonial\\author.png",
       "PackagePath": "staticwebassets\\img\\testmonial\\author.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\1.png",
       "PackagePath": "staticwebassets\\img\\trip\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\11.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\11.png",
       "PackagePath": "staticwebassets\\img\\trip\\11.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\2.png",
       "PackagePath": "staticwebassets\\img\\trip\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\22.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\22.png",
       "PackagePath": "staticwebassets\\img\\trip\\22.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\3.png",
       "PackagePath": "staticwebassets\\img\\trip\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\trip\\33.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\trip\\33.png",
       "PackagePath": "staticwebassets\\img\\trip\\33.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\user.jpg",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\works\\1.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\works\\1.png",
       "PackagePath": "staticwebassets\\img\\works\\1.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\works\\2.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\works\\2.png",
       "PackagePath": "staticwebassets\\img\\works\\2.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\works\\3.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\works\\3.png",
       "PackagePath": "staticwebassets\\img\\works\\3.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\img\\works\\4.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\img\\works\\4.png",
       "PackagePath": "staticwebassets\\img\\works\\4.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\ajax-form.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\ajax-form.js",
       "PackagePath": "staticwebassets\\js\\ajax-form.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\contact.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\gijgo.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\gijgo.min.js",
       "PackagePath": "staticwebassets\\js\\gijgo.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery-ui.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.form.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\js\\jquery.form.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.slicknav.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\jquery.validate.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\mail-script.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\js\\mail-script.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\main.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\nice-select.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\nice-select.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\plugins.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\popper.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\popper.js",
       "PackagePath": "staticwebassets\\js\\popper.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\popper.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\range.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\range.js",
       "PackagePath": "staticwebassets\\js\\range.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\scrollIt.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\scrollIt.js",
       "PackagePath": "staticwebassets\\js\\scrollIt.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\site.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\slick.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\waypoints.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\js\\wow.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\chart\\chart.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_about.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_about.scss",
       "PackagePath": "staticwebassets\\scss\\_about.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_blog.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_blog.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_blog_part.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_blog_part.scss",
       "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_bradcam.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_bradcam.scss",
       "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_btn.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_btn.scss",
       "PackagePath": "staticwebassets\\scss\\_btn.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_contact.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_contact_action.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_contact_action.scss",
       "PackagePath": "staticwebassets\\scss\\_contact_action.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_counter.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_counter.scss",
       "PackagePath": "staticwebassets\\scss\\_counter.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_destination.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_destination.scss",
       "PackagePath": "staticwebassets\\scss\\_destination.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_elements.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_elements.scss",
       "PackagePath": "staticwebassets\\scss\\_elements.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_extend.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_extend.scss",
       "PackagePath": "staticwebassets\\scss\\_extend.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_footer.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_header.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_header.scss",
       "PackagePath": "staticwebassets\\scss\\_header.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_mixins.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_newsletter.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_newsletter.scss",
       "PackagePath": "staticwebassets\\scss\\_newsletter.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_offers.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_offers.scss",
       "PackagePath": "staticwebassets\\scss\\_offers.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_popular_place.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_popular_place.scss",
       "PackagePath": "staticwebassets\\scss\\_popular_place.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_responsive.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_responsive.scss",
       "PackagePath": "staticwebassets\\scss\\_responsive.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_section_title.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_section_title.scss",
       "PackagePath": "staticwebassets\\scss\\_section_title.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_service.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_service.scss",
       "PackagePath": "staticwebassets\\scss\\_service.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_slick-nav.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_slick-nav.scss",
       "PackagePath": "staticwebassets\\scss\\_slick-nav.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_slider.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_slider.scss",
       "PackagePath": "staticwebassets\\scss\\_slider.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_team.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_team.scss",
       "PackagePath": "staticwebassets\\scss\\_team.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_testmonial.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_testmonial.scss",
       "PackagePath": "staticwebassets\\scss\\_testmonial.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_travel_variation.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_travel_variation.scss",
       "PackagePath": "staticwebassets\\scss\\_travel_variation.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_varriable.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_varriable.scss",
       "PackagePath": "staticwebassets\\scss\\_varriable.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_video.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_video.scss",
       "PackagePath": "staticwebassets\\scss\\_video.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\_where_to_go.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\_where_to_go.scss",
       "PackagePath": "staticwebassets\\scss\\_where_to_go.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_code.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_media.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_print.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\style.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project\\wwwroot\\scss\\theme-default.scss",
+      "Id": "D:\\Zewail city\\Year 5\\Fall\\SWProject\\DB_Project4\\DB_Project\\wwwroot\\scss\\theme-default.scss",
       "PackagePath": "staticwebassets\\scss\\theme-default.scss"
     },
     {

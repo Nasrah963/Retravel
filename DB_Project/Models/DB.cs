@@ -8,13 +8,101 @@ namespace DB_Project.Models
 {
     public class DB
     {
+        public readonly SqlConnection con;
+
+        //public DB()
+        //{
+        //    con = new SqlConnection("Data Source=DESKTOP-RCNAMN0;Initial Catalog=SWDB;Integrated Security=True;Encrypt=False");
+        //}
+        public DB(SqlConnection connection = null)
+        {
+            //con = connection ?? new SqlConnection("Data Source=DESKTOP-RCNAMN0;Initial Catalog=SWDB;Integrated Security=True;Encrypt=False");
+            con = connection ?? new SqlConnection("Data Source=DESKTOP-RCNAMN0;Initial Catalog=SWDB_Test;Integrated Security=True;Encrypt=False");
+        }
+
+
+        //public DB(SqlConnection connection)
+        //{
+        //    con = connection;
+        //}
+
+        private readonly IDatabaseExecutor _databaseExecutor;
+
+        public DB(IDatabaseExecutor databaseExecutor)
+        {
+            _databaseExecutor = databaseExecutor;
+        }
+
+        //public void Add_Trip(string destination, int price, int max_no, int min_no, string start_date, string end_date)
+        //{
+        //    if (string.IsNullOrEmpty(destination) || price <= 0 || max_no <= 0 || min_no <= 0 || string.IsNullOrEmpty(start_date) || string.IsNullOrEmpty(end_date))
+        //    {
+        //        throw new ArgumentException("Invalid input data for adding a trip.");
+        //    }
+
+        //    string query = $@"
+        //    INSERT INTO TOUR 
+        //    VALUES ((SELECT MAX(Tour_ID) + 1 FROM TOUR), '{destination}', {price}, {max_no}, {min_no}, '{destination}.png', '{start_date}', '{end_date}', 0)";
+        //    ExecuteQuery(query);
+
+        //}
+        public void Add_Trip(string destination, int price, int max_no, int min_no, string start_date, string end_date)
+        {
+            if (string.IsNullOrEmpty(destination) || price <= 0 || max_no <= 0 || min_no <= 0 || string.IsNullOrEmpty(start_date) || string.IsNullOrEmpty(end_date))
+            {
+                throw new ArgumentException("Invalid input data for adding a trip.");
+            }
+
+            string checkQuery = $@"
+        SELECT COUNT(*) FROM TOUR
+        WHERE Destination = @Destination AND Start__date = @StartDate";
+
+            SqlCommand checkCmd = new SqlCommand(checkQuery, con);
+            checkCmd.Parameters.AddWithValue("@Destination", destination);
+            checkCmd.Parameters.AddWithValue("@StartDate", start_date);
+
+            try
+            {
+                con.Open();
+                int count = Convert.ToInt32(checkCmd.ExecuteScalar());
+                con.Close();
+
+                if (count > 0)
+                {
+                    throw new InvalidOperationException("A trip with the same destination and start date already exists.");
+                }
+
+                string query = $@"
+            INSERT INTO TOUR (Tour_ID, Destination, Price, Max_no, Min_no, Photo, Start__date, End__date, Num_tickets)
+            VALUES ((SELECT COALESCE(MAX(Tour_ID), 0) + 1 FROM TOUR), @Destination, @Price, @MaxNo, @MinNo, @Photo, @StartDate, @EndDate, 0)";
+
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Destination", destination);
+                cmd.Parameters.AddWithValue("@Price", price);
+                cmd.Parameters.AddWithValue("@MaxNo", max_no);
+                cmd.Parameters.AddWithValue("@MinNo", min_no);
+                cmd.Parameters.AddWithValue("@Photo", destination + ".png");
+                cmd.Parameters.AddWithValue("@StartDate", start_date);
+                cmd.Parameters.AddWithValue("@EndDate", end_date);
+
+                con.Open();
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException ex)
+            {
+                throw new ApplicationException("Database operation failed.", ex);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+
+
+
         public static bool Islogged { get; set; } = false;
         public static int UserTypeAOU { get; set; } = 0;
-        public SqlConnection con;
-        public DB()
-        {
-            con = new SqlConnection("Data Source=DESKTOP-RCNAMN0;Initial Catalog=SWDB;Integrated Security=True;Encrypt=False");
-        }
+       
         public object ExecuteTable(string func)
         {
             DataTable dt = new DataTable();
@@ -98,13 +186,26 @@ namespace DB_Project.Models
             object userId = ExecuteScalar(Q);  
             return (int)userId;
         }
-
-        public void signup(string name, string email, string pass, string tel, int age, string city) // Sign up
+        public void signup(string name, string email, string pass, string tel, int age, string city)
         {
-            string Q = "INSERT INTO PERSON (ID, name, email, pass, UserType, tel, age, city) " +
-                       "VALUES ((SELECT COALESCE(MAX(ID), 0) + 1 FROM PERSON), '" + name + "', '" + email + "', '" + pass + "', 2, '" + tel + "', " + age + ", '" + city + "');";
-            ExecuteQuery(Q);
+            if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(email) || string.IsNullOrEmpty(pass) ||
+                string.IsNullOrEmpty(tel) || age <= 0 || string.IsNullOrEmpty(city))
+            {
+                throw new ArgumentException("Invalid input data for signup.");
+            }
+
+            string query = $@"
+        INSERT INTO PERSON (ID, name, email, pass, UserType, tel, age, city)
+        VALUES ((SELECT COALESCE(MAX(ID), 0) + 1 FROM PERSON), '{name}', '{email}', '{pass}', 2, '{tel}', {age}, '{city}')";
+            ExecuteQuery(query);
         }
+
+        //public void signup(string name, string email, string pass, string tel, int age, string city) // Sign up
+        //{
+        //    string Q = "INSERT INTO PERSON (ID, name, email, pass, UserType, tel, age, city) " +
+        //               "VALUES ((SELECT COALESCE(MAX(ID), 0) + 1 FROM PERSON), '" + name + "', '" + email + "', '" + pass + "', 2, '" + tel + "', " + age + ", '" + city + "');";
+        //    ExecuteQuery(Q);
+        //}
         public DataRow GetUserById(int id)
         {
             string query = "SELECT name, email, tel, city, age FROM PERSON WHERE ID = @Id";
@@ -134,11 +235,15 @@ namespace DB_Project.Models
         }
 
 
-        public void Add_Trip(string destination ,int price,int max_no, int min_no, string Start_date, string end_date ) //Add_Trip
-        {
-            String Q = "insert into TOUR values((select max(Tour_ID) + 1 from TOUR) ,'{destination}'," + price + "," + max_no + "," + min_no + ",'" + destination + ".Png','" + Start_date + "','" + end_date + "',0)";
-            ExecuteQuery(Q);
-        }
+        //public void Add_Trip(string destination ,int price,int max_no, int min_no, string Start_date, string end_date ) //Add_Trip
+        //{
+        //    if (string.IsNullOrEmpty(destination) || price <= 0 || max_no <= 0 || min_no <= 0 || string.IsNullOrEmpty(Start_date) || string.IsNullOrEmpty(end_date))
+        //    {
+        //        throw new ArgumentException("Invalid input data for adding a trip.");
+        //    }
+        //    String Q = "insert into TOUR values((select max(Tour_ID) + 1 from TOUR) ,'{destination}'," + price + "," + max_no + "," + min_no + ",'" + destination + ".Png','" + Start_date + "','" + end_date + "',0)";
+        //    ExecuteQuery(Q);
+        //}
         public DataTable ReadTableEmployee()// Employee 
         {
             DataTable dt = new DataTable();
