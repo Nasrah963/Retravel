@@ -1,0 +1,170 @@
+﻿@page
+@model DB_Project.Pages.sign_upModel
+@{
+    Layout = "_Layout";
+}
+
+<style>
+    .signup-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 80vh;
+        background-color: #f9f9f9;
+    }
+
+        .signup-container .container {
+            display: flex;
+            width: 80%;
+            max-width: 1200px;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .signup-container .form-container {
+            flex: 1;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+            .signup-container .form-container h1 {
+                margin-bottom: 20px;
+                font-size: 28px;
+                color: #333;
+                text-align: center;
+            }
+
+            .signup-container .form-container form {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+
+                .signup-container .form-container form label {
+                    font-size: 14px;
+                    color: #555;
+                    margin-bottom: 5px;
+                }
+
+                .signup-container .form-container form input {
+                    padding: 12px;
+                    font-size: 16px;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                }
+
+                    .signup-container .form-container form input:focus {
+                        outline: none;
+                        border-color: #007BFF;
+                        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+                    }
+
+                .signup-container .form-container form .error-message {
+                    color: red;
+                    font-size: 14px;
+                    margin-top: -10px;
+                }
+
+                .signup-container .form-container form button {
+                    padding: 12px;
+                    font-size: 16px;
+                    background-color: #007BFF;
+                    color: #fff;
+                    border: none;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    transition: background-color 0.3s;
+                }
+
+                    .signup-container .form-container form button:hover {
+                        background-color: #0056b3;
+                    }
+
+            .signup-container .form-container .member-link {
+                text-align: center;
+                margin-top: 10px;
+            }
+
+        .signup-container .image-container {
+            flex: 1;
+            background: url('/img/signup-image.png') no-repeat center center;
+            background-size: contain;
+        }
+
+        .signup-container .image-container {
+            flex: 1;
+            background: url('/img/signup-image.png') no-repeat center center;
+            background-size: cover;
+        }
+</style>
+
+<div class="signup-container">
+    <div class="container">
+        <div class="form-container">
+            <h1>Sign up</h1>
+            @if (!string.IsNullOrEmpty(ViewData["Error"]?.ToString()))
+            {
+                <div class="alert alert-danger">@ViewData["Error"]</div>
+            }
+
+            <form method="post" onsubmit="return validateForm();">
+                <input type="text" id="username" name="username" placeholder="Your Name" required>
+
+                <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+                <input type="password" id="password" name="password" placeholder="Password" required>
+
+                <input type="password" id="confirm-password" name="confirm-password" placeholder="Repeat your password" required>
+
+                <input type="text" id="telephone" name="telephone" placeholder="+20XXXXXXXXXXX" required pattern="\+20[0125]\d{9}">
+                <span id="tel-error" class="error-message" style="display: none;">
+                    Telephone must start with +20 and have 11 digits after it.
+                </span>
+
+                <input type="number" id="age" name="age" placeholder="Your Age" required min="1" max="120">
+                <input type="text" id="city" name="city" placeholder="Your City" required>
+
+                <div id="error-message" class="error-message" style="display: none;">
+                    Passwords do not match.
+                </div>
+
+                <button type="submit">Register</button>
+            </form>
+            <div class="member-link">
+                <a href="/login">I am already a member</a>
+            </div>
+        </div>
+        <div class="image-container"></div>
+    </div>
+</div>
+
+<script>
+    function validateForm() {
+        const password = document.getElementById("password").value;
+        const confirmPassword = document.getElementById("confirm-password").value;
+        const telephone = document.getElementById("telephone").value;
+        const telError = document.getElementById("tel-error");
+        const errorMessage = document.getElementById("error-message");
+
+        if (password !== confirmPassword) {
+            errorMessage.style.display = "block";
+            return false; 
+        } else {
+            errorMessage.style.display = "none";
+        }
+
+        const telPattern = /^\+20[0125]\d{9}$/;
+        if (!telPattern.test(telephone)) {
+            telError.style.display = "block";
+            return false; 
+        } else {
+            telError.style.display = "none";
+        }
+
+        return true; 
+    }
+</script>

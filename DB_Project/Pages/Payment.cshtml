@@ -1,0 +1,94 @@
+﻿<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<head>
+    <style>
+        body {
+            margin-top: 20px;
+        }
+
+        body {
+            background-image: url('img/background.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+
+
+<div class="container">
+    <div class="row">
+        <div class="well col-xs-10 col-sm-10 col-md-6 col-xs-offset-1 col-sm-offset-1 col-md-offset-3">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6">
+                    <address>
+                        <strong>Re Travel </strong>
+                        <br>
+                        Hadayek Alahram
+                        <br>
+                        Giza Governorate
+                        <br>
+                        <abbr title="Phone"> Phone Number: </abbr>  +201111401472
+                    </address>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-6 text-right">
+                    <p>
+                    <p>Date: <em>@Model.CurrentDate</em></p>
+                    </p>
+                    <p>
+                        <em>Receipt ID: @Model.ReceiptID</em>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="text-center">
+                    <h1>Receipt</h1>
+                </div>
+                </span>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Details</th>
+                            <th>Number</th>
+                            <th class="text-center">Price</th>
+                            <th class="text-center">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="col-md-9"><em>Hotel Rooms </em></h4></td>
+                            <td class="col-md-1" style="text-align: center">@Model.HotelRooms</td>
+                            <td class="col-md-1 text-center">@Model.RoomPrice</td>
+                            <td class="col-md-1 text-center"> @Model.TotalForHotels</td>
+                        </tr>
+                        <tr>
+                            <td class="col-md-9"><em>Transportaion </em></h4></td>
+                            <td class="col-md-1" style="text-align: center"> @Model.NumTickets </td>
+                            <td class="col-md-1 text-center">100</td>
+                            <td class="col-md-1 text-center"> @Model.TotalForTrans</td>
+                        </tr>
+
+                        <tr>
+                            <td>   </td>
+                            <td>   </td>
+                            <td class="text-right"
+                            </td>
+                            <td class="text-center">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>   </td>
+                            <td>   </td>
+                            <td class="text-right"><h4><strong>Total: </strong></h4></td>
+                            <td class="text-center text-danger"><h4><strong>@Model.Total</strong></h4></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button type="button" class="btn btn-success btn-lg btn-block">
+                    Pay Now   <span class="glyphicon glyphicon-chevron-right"></span>
+                </button></td>
+            </div>
+        </div>
+    </div>

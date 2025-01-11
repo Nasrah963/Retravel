@@ -1,0 +1,117 @@
+﻿@page
+@model DB_Project.Pages.BookingModel
+@{
+	Layout = "_Layout1";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Booking</title>
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Hind:400,700" rel="stylesheet">
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+	<!-- Custom stylesheet -->
+	<link type="text/css" rel="stylesheet" href="style.css" />
+	<style>
+		body {
+			background-image: url('img/background.jpg');
+			background-size: cover;
+			background-position: center;
+			height: 100vh;
+		}
+
+		.form-control {
+			background-color: rgba(255, 255, 255, 0.75);
+		}
+
+		.submit {
+			background-color: #a87d44; /* set the background color to #0098A1 */
+			margin-top: 20px;
+			color: #fff;
+			border: none;
+			border-radius: 25px;
+			padding: 10px 20px;
+			cursor: pointer;
+			font-family: Monaco, Monospace;
+		}
+
+			.submit:hover {
+				background-color: #d9b382; /* change the background color on hover */
+			}
+	</style>
+</head>
+<body>
+	<div class="bg-image h-100">
+		<div id="booking" class="section d-flex justify-content-center align-items-center">
+			<div class="section-center">
+				<div class="container">
+					<div class="row">
+						<div class="booking-form">
+							<div class="form-header">
+								<h1>Book your Trip</h1>
+							</div>
+							<form method="post">
+								<div class="row">
+									<div class="col-md-7">
+										<div class="form-group">
+											<span class="form-label">Hotel</span>
+											<select class="form-control">
+												<option>seven heaven</option>
+												<option>Tolip</option>
+												<option>sunrise</option>
+											</select>
+											<span class="select-arrow"></span>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-4">
+										<div class="form-group">
+											<span class="form-label">No of rooms</span>
+											<select class="form-control">
+												<option>1</option>
+												<option>2</option>
+												<option>3</option>
+											</select>
+											<span class="select-arrow"></span>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="form-group">
+											<span class="form-label">Adults</span>
+											<select class="form-control">
+												<option>1</option>
+												<option>2</option>
+												<option>3</option>
+											</select>
+											<span class="select-arrow"></span>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="form-group">
+											<span class="form-label">Children</span>
+											<select class="form-control">
+												<option>0</option>
+												<option>1</option>
+												<option>2</option>
+											</select>
+											<span class="select-arrow"></span>
+										</div>
+									</div>
+								</div>
+								<div class="form-btn">
+									<button type="submit" class="form-control btn btn-primary submit px-3">BOOK</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

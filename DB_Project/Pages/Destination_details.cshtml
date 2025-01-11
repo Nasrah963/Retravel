@@ -1,0 +1,122 @@
+﻿@page "{id?}"
+@model DB_Project.Pages.Destination_detailsModel
+@{
+}
+
+<div class="destination_banner_wrap overlay">
+    <div class="destination_text text-center">
+        <h3>
+            @if (Model.TourDetails != null)
+            {
+                @Model.TourDetails["Destination"]
+            }
+            else
+            {
+                <span>No Destination Found</span>
+            }
+        </h3>
+        <p>Enjoy your Trip</p>
+    </div>
+</div>
+
+<div class="destination_details_info">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-9">
+                <div class="destination_info">
+                    <h3>Trip Details</h3>
+                    @if (Model.TourDetails != null)
+                    {
+                        <p><strong>Price:</strong> $@Model.TourDetails["Price"]</p>
+                        <p><strong>Start Date:</strong> @Model.TourDetails["Start__date"]</p>
+                        <p><strong>End Date:</strong> @Model.TourDetails["End__date"]</p>
+                    }
+                    else
+                    {
+                        <p>No trip details available.</p>
+                    }
+
+                    <!-- Activities Section -->
+                    <h3 class="text-center my-4">Activities</h3>
+                    @for (int day = 1; day <= Model.ActivitiesByDay.Keys.Count; day++)
+                    {
+                        <div class="single_destination mb-4">
+                            <h4 style="font-size: 1.5rem; font-weight: bold;">Day @day</h4>
+                            <div class="activity-list">
+                                @if (Model.ActivitiesByDay.ContainsKey(day))
+                                {
+                                    foreach (var activity in Model.ActivitiesByDay[day])
+                                    {
+                                        <div class="activity-item">
+                                            <p><strong>Activity Name:</strong> @activity["ActivityName"]</p>
+                                            <p><strong>Type:</strong> @activity["Type"]</p>
+                                            <p><strong>Requirement:</strong> @activity["Requirement"]</p>
+                                            <p><strong>Capacity:</strong> @activity["Capacity"]</p>
+                                            <p><strong>Duration:</strong> @activity["Duration"] hours</p>
+                                            <p><strong>Price:</strong> $@activity["Price"]</p>
+                                            <p><strong>Description:</strong> @activity["ActivityDescription"]</p>
+                                            <hr />
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>No activities for this day.</p>
+                                }
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="bordered_1px"></div>
+                <div class="contact_join">
+                    <form method="post">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="submit_btn">
+                                    <button class="boxed-btn4" type="submit">BOOK</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .activity-list {
+        margin-top: 10px;
+    }
+
+    .activity-item {
+        margin-bottom: 20px;
+    }
+
+        .activity-item p {
+            margin: 0;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+
+    .single_destination h4 {
+        margin-bottom: 15px;
+        color: #333;
+    }
+
+    .submit_btn .boxed-btn4 {
+        padding: 10px 25px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .submit_btn .boxed-btn4:hover {
+            background-color: #0056b3;
+        }
+</style>

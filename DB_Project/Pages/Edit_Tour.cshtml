@@ -1,0 +1,60 @@
+﻿@page
+@model DB_Project.Pages.Edit_TourModel
+@{
+
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Edit Tour</h2>
+    <div class="card shadow p-4">
+        <form method="post">
+            <div class="form-group">
+                <label for="destination">Destination</label>
+                <input type="text" class="form-control" id="destination" asp-for="Destination" placeholder="Enter destination" required />
+            </div>
+            <div class="form-group">
+                <label for="price">Price</label>
+                <input type="number" class="form-control" id="price" asp-for="Price" placeholder="Enter price" required />
+            </div>
+            <div class="form-group">
+                <label for="max_no">Maximum Number</label>
+                <input type="number" class="form-control" id="max_no" asp-for="MaxNo" placeholder="Enter maximum number" required />
+            </div>
+            <div class="form-group">
+                <label for="min_no">Minimum Number</label>
+                <input type="number" class="form-control" id="min_no" asp-for="MinNo" placeholder="Enter minimum number" required />
+            </div>
+            <div class="form-group">
+                <label for="start_date">Start Date</label>
+                <input type="date" class="form-control" id="start_date" asp-for="StartDate" required />
+            </div>
+            <div class="form-group">
+                <label for="end_date">End Date</label>
+                <input type="date" class="form-control" id="end_date" asp-for="EndDate" required />
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary px-4">Save Changes</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        margin-top: 20px;
+    }
+
+    .container h2 {
+        margin-bottom: 20px;
+    }
+</style>

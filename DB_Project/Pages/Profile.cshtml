@@ -1,0 +1,228 @@
+﻿@page
+@model DB_Project.Pages.ProfileModel
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Profile Container */
+        .profile-container {
+            max-width: 1100px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-wrap: wrap; /* For responsiveness */
+            gap: 20px;
+        }
+
+        /* Profile Image Section */
+        .profile-image {
+            flex: 1;
+            min-width: 280px;
+            text-align: center;
+        }
+
+            .profile-image img {
+                max-width: 100%;
+                height: auto;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+
+        /* Profile Details Section */
+        .profile-details {
+            flex: 2;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+            .profile-details h1 {
+                font-size: 28px;
+                color: #2c3e50;
+            }
+
+            .profile-details p {
+                color: #555;
+                margin-bottom: 10px;
+            }
+
+        .info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .info-column {
+            flex: 1;
+            min-width: 200px;
+        }
+
+            .info-column p {
+                margin-bottom: 10px;
+            }
+
+            .info-column strong {
+                color: #2c3e50;
+                font-weight: 600;
+            }
+
+            .info-column a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .info-column a:hover {
+                    text-decoration: underline;
+                }
+
+        /* Biography Section */
+        .bio {
+            font-size: 16px;
+            color: #666;
+            line-height: 1.8;
+            margin-top: 20px;
+        }
+
+        /* Button Styling */
+        .btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-top: 20px;
+        }
+
+            .btn:hover {
+                background-color: #0056b3;
+            }
+
+        /* Table Styling */
+        .history-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            .history-table th, .history-table td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+
+            .history-table th {
+                background-color: #007bff;
+                color: white;
+            }
+
+        .no-data {
+            margin-top: 20px;
+            color: #666;
+            text-align: center;
+            font-size: 18px;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-image">
+            <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" alt="Profile Picture">
+        </div>
+        <div class="profile-details">
+            <h1>@Model.Name</h1>
+            <div class="info">
+                <div class="info-column">
+                    <br/>
+                    <p><strong>Phone:</strong> @Model.Phone</p>
+                    <br/>
+                    <p><strong>City:</strong> @Model.City</p>
+                    <br/>
+                    <br/>
+                </div>
+                <div class="info-column">
+                    <br/>
+                    <p><strong>Age:</strong> @Model.Age</p>
+                    <br/>
+                    <p><strong>Email:</strong> <a href="mailto:@Model.Email">@Model.Email</a></p>
+                    <br/>
+                    <br/>
+                </div>
+            </div>
+            <button class="btn" onclick="toggleHistory()">View History</button>
+            <div id="history" style="display: none;">
+                <!-- Placeholder for dynamic content -->
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        const historyData = []; // Example: populate this array with data or fetch from a backend
+
+        function toggleHistory() {
+            const historyContainer = document.getElementById("history");
+            historyContainer.innerHTML = ""; // Clear existing content
+
+            if (historyData.length > 0) {
+                // Create a table if there is data
+                const table = document.createElement("table");
+                table.classList.add("history-table");
+                table.innerHTML = `
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Event</th>
+                            <th>Location</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${historyData.map(item => `
+                            <tr>
+                                <td>${item.date}</td>
+                                <td>${item.event}</td>
+                                <td>${item.location}</td>
+                            </tr>
+                        `).join("")}
+                    </tbody>
+                `;
+                historyContainer.appendChild(table);
+            } else {
+                // Show a "no data" message if there is no history
+                historyContainer.innerHTML = `<div class="no-data">No previous history</div>`;
+            }
+
+            // Toggle visibility
+            historyContainer.style.display = historyContainer.style.display === "none" ? "block" : "none";
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,152 @@
+﻿@page
+@model DB_Project.Pages.loginModel
+@{
+    Layout = "_Layout";
+ } 
+
+<style>
+    .login-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 80vh;
+        background-color: #f9f9f9;
+    }
+
+        .login-container .container {
+            display: flex;
+            width: 80%;
+            max-width: 1200px;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .login-container .form-container {
+            flex: 1;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+            .login-container .form-container h1 {
+                margin-bottom: 20px;
+                font-size: 28px;
+                color: #333;
+                text-align: center;
+            }
+
+            .login-container .form-container form {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+
+                .login-container .form-container form label {
+                    font-size: 14px;
+                    color: #555;
+                    margin-bottom: 5px;
+                }
+
+                .login-container .form-container form input {
+                    padding: 12px;
+                    font-size: 16px;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                }
+
+                    .login-container .form-container form input:focus {
+                        outline: none;
+                        border-color: #007BFF;
+                        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+                    }
+
+                .login-container .form-container form .checkbox-container {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                }
+
+                    .login-container .form-container form .checkbox-container input {
+                        width: auto;
+                    }
+
+                .login-container .form-container form button {
+                    padding: 12px;
+                    font-size: 16px;
+                    background-color: #007BFF;
+                    color: #fff;
+                    border: none;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    transition: background-color 0.3s;
+                }
+
+                    .login-container .form-container form button:hover {
+                        background-color: #0056b3;
+                    }
+
+            .login-container .form-container .member-link {
+                text-align: center;
+                margin-top: 10px;
+            }
+
+                .login-container .form-container .member-link a {
+                    color: #007BFF;
+                    text-decoration: none;
+                }
+
+            .login-container .form-container .social-login {
+                display: flex;
+                justify-content: center;
+                gap: 10px;
+                margin-top: 20px;
+            }
+
+                .login-container .form-container .social-login a {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                    background-color: #ccc;
+                    color: #fff;
+                    text-decoration: none;
+                    font-size: 18px;
+                }
+
+        .login-container .image-container {
+            flex: 1;
+            background: url('/img/signin-image.png') no-repeat center center;
+            background-size: contain;
+        }
+</style>
+
+<div class="login-container">
+    <div class="container">
+        <div class="image-container"></div>
+        <div class="form-container">
+            <h1>Log in</h1>
+
+            @if (!string.IsNullOrEmpty(Model.msg))
+            {
+                <div class="alert alert-danger">@Model.msg</div>
+            }
+
+            <form method="post" asp-page-handler="Login">
+                <input type="text" id="name" placeholder="Your Name" required asp-for="username">
+
+                <input type="password" id="password" placeholder="Password" required asp-for="password">
+
+                <button type="submit" class="btn btn-primary">Log in</button>
+            </form>
+
+            <div class="member-link">
+                <a asp-page="/sign_up">Create an account</a>
+            </div>
+        </div>
+    </div>
+</div>

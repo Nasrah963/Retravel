@@ -1,0 +1,78 @@
+﻿@page
+@model DB_Project.Pages.Add_TripModel
+@{
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Add New Trip</h2>
+    <div class="card shadow p-4">
+        <form method="post" onsubmit="formatDates()">
+            <div class="form-group">
+                <label for="destination">Destination</label>
+                <input type="text" class="form-control" id="destination" asp-for="Destination" placeholder="Enter destination" required />
+            </div>
+            <div class="form-group">
+                <label for="price">Price</label>
+                <input type="number" class="form-control" id="price" asp-for="Price" placeholder="Enter price" required />
+            </div>
+            <div class="form-group">
+                <label for="max_no">Maximum Number</label>
+                <input type="number" class="form-control" id="max_no" asp-for="MaxNo" placeholder="Enter maximum number" required />
+            </div>
+            <div class="form-group">
+                <label for="min_no">Minimum Number</label>
+                <input type="number" class="form-control" id="min_no" asp-for="MinNo" placeholder="Enter minimum number" required />
+            </div>
+            <div class="form-group">
+                <label for="start_date">Start Date</label>
+                <input type="date" class="form-control" id="start_date" required />
+                <input type="hidden" asp-for="StartDate" id="formatted_start_date" />
+            </div>
+            <div class="form-group">
+                <label for="end_date">End Date</label>
+                <input type="date" class="form-control" id="end_date" required />
+                <input type="hidden" asp-for="EndDate" id="formatted_end_date" />
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary px-4">Add Trip</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        margin-bottom: 30px; /* Space beneath the box */
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        margin-top: 20px; /* Space above the Add button */
+    }
+
+    .container h2 {
+        margin-bottom: 20px;
+    }
+</style>
+
+<script>
+    function formatDates() {
+        const startDateInput = document.getElementById("start_date");
+        const endDateInput = document.getElementById("end_date");
+        const formattedStartDate = document.getElementById("formatted_start_date");
+        const formattedEndDate = document.getElementById("formatted_end_date");
+
+        // Format the dates as yyyy-mm-dd
+        if (startDateInput.value) {
+            formattedStartDate.value = startDateInput.value;
+        }
+        if (endDateInput.value) {
+            formattedEndDate.value = endDateInput.value;
+        }
+    }
+</script>
